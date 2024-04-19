@@ -1,4 +1,6 @@
 # UpCommerce Ticketing System: Taming the Toil
+Gemini (https://g.co/gemini/share/4ef6ca8d6a1c)
+
 This document outlines strategies to tackle the ever-present challenge of toil within UpCommerce's ticketing system. Our goal is to streamline operations, ensuring only actionable alerts reach the engineers, and ultimately, improve the experience for both the team and our customers.
 
 ## Reducing Alert Overload
